@@ -1,0 +1,31 @@
+
+
+
+:root {
+	/* Primary - Background Color   */
+	--color-blue: #1877F2;
+	--color-green: #8BBC44; 
+	--color-yellow: #F5CA53;  
+	--color-red: #D95649;
+	--color-white: #ffffff;
+	--color-btn: #2967BC;
+	--color-light: #f3f2ed;
+	
+	/* Typography Colors */
+	--text-black: #000000;
+	--text-dark: #17263F;
+	--text-medium: #455165; 
+	--text-semilight: #747d8c;  
+	--text-light: #929292; 
+	--text-white: #ffffff;
+	--text-six: #666666;
+	
+	/* font style */
+	--font:'Open Sans', sans-serif;
+}
+
+
+
+
+
+
